@@ -59,7 +59,9 @@ Then  I have implemented the methods by copying the generated code from featuse 
 I have created one packge called driver, In driver package crated java class named Baseclass, using this I can call the driver.
 Define a base  class to define our test case scenario.
 
-    Step 6:   I have created page object package to increase readability  and  reuse the code. In page object create HomePage and ResultPage to mantain the code.
+    
+  Step 6:   I have created page object package to increase readability  and  reuse the code. In page object create HomePage and ResultPage to mantain the code.
+
 
 I have also created Hooks class to  call Base class where i instantiate the driver. and In that @Before cucumber annotation method.
 
